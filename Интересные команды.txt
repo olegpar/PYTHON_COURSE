@@ -1,0 +1,13 @@
+ctr k и ctr c вместе - все закоммитить
+ctr k ctr u вместе - раскомитить
+
+a = 5
+b = 5.89
+c = 'hello'
+
+# print(f"{a} - {b} - {c}") # или
+# print("{} - {} - {}".format(a,b,c)) 
+
+# print ('Введите первое число: ')
+# a1 = input()
+# print (a1)
